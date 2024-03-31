@@ -1,0 +1,11 @@
+Objective: While the camera moves give a indication of position based upon "Ideal Posiition" of the object in our case which is a bottle. When the bottle is still for 3s infront of              our camera we set that position as "Ideal-state" The indication happens through physical attribuites such as LEDs and Buzzer. The indications are,
+
+    * Buzzer - Rings, Which means our camera happpens to be in the "Ideal state" , which is right infront of our object.
+    * LEDS - different colors mean different directions and combinations of LEDs are also indicative. The colors mean,
+
+         # RED --> Left
+         # White --> Up
+         # Green --> Right
+         # Blue --> Down
+
+ * Reset -> Through a Push switch we can reset the previously set "Ideal Position" and set a new postion by follwing the same procedure.

@@ -1,0 +1,2 @@
+# Ignore the python env the user will need to set it up
+env/
